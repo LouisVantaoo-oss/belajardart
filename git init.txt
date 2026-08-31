@@ -1,0 +1,15 @@
+git init
+git add .
+git commit -m ""versi 1"
+
+jika tidak dikenali//
+git config
+git commit -m ""versi 1"
+got remote add origin linkrepo
+git branch -m main
+git push -u origin main
+
+//update
+git add .
+git commit -m ""versi 1"
+git push
